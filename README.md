@@ -1,2 +1,2 @@
 # GEO-3523
-Library of useful geotechnical function
+Library of useful geotechnical functions 
